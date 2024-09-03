@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Programa_Jogo_Dado/1.0.0": {
+        "runtime": {
+          "Programa_Jogo_Dado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa_Jogo_Dado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

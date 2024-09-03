@@ -1,0 +1,14 @@
+D:\Aulas\c#\Programa_Jogo_Dado\Programa_Jogo_Dado\obj\Debug\net8.0\Programa_Jogo_Dado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\c#\Programa_Jogo_Dado\Programa_Jogo_Dado\obj\Debug\net8.0\Programa_Jogo_Dado.AssemblyInfoInputs.cache
+D:\Aulas\c#\Programa_Jogo_Dado\Programa_Jogo_Dado\obj\Debug\net8.0\Programa_Jogo_Dado.AssemblyInfo.cs
+D:\Aulas\c#\Programa_Jogo_Dado\Programa_Jogo_Dado\obj\Debug\net8.0\Programa_Jogo_Dado.csproj.CoreCompileInputs.cache
+D:\Aulas\c#\Programa_Jogo_Dado\Programa_Jogo_Dado\bin\Debug\net8.0\Programa_Jogo_Dado.exe
+D:\Aulas\c#\Programa_Jogo_Dado\Programa_Jogo_Dado\bin\Debug\net8.0\Programa_Jogo_Dado.deps.json
+D:\Aulas\c#\Programa_Jogo_Dado\Programa_Jogo_Dado\bin\Debug\net8.0\Programa_Jogo_Dado.runtimeconfig.json
+D:\Aulas\c#\Programa_Jogo_Dado\Programa_Jogo_Dado\bin\Debug\net8.0\Programa_Jogo_Dado.dll
+D:\Aulas\c#\Programa_Jogo_Dado\Programa_Jogo_Dado\bin\Debug\net8.0\Programa_Jogo_Dado.pdb
+D:\Aulas\c#\Programa_Jogo_Dado\Programa_Jogo_Dado\obj\Debug\net8.0\Programa_Jogo_Dado.dll
+D:\Aulas\c#\Programa_Jogo_Dado\Programa_Jogo_Dado\obj\Debug\net8.0\refint\Programa_Jogo_Dado.dll
+D:\Aulas\c#\Programa_Jogo_Dado\Programa_Jogo_Dado\obj\Debug\net8.0\Programa_Jogo_Dado.pdb
+D:\Aulas\c#\Programa_Jogo_Dado\Programa_Jogo_Dado\obj\Debug\net8.0\Programa_Jogo_Dado.genruntimeconfig.cache
+D:\Aulas\c#\Programa_Jogo_Dado\Programa_Jogo_Dado\obj\Debug\net8.0\ref\Programa_Jogo_Dado.dll
